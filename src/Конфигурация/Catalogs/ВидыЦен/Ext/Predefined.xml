@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<PredefinedData xmlns="http://v8.1c.ru/8.3/xcf/predef" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:type="CatalogPredefinedItems" version="2.8">
+	<Item id="8ed4e7f7-27e3-4f69-ab1e-68bdc6440fe2">
+		<Name>Закупочная</Name>
+		<Code>000000001</Code>
+		<Description>Закупочная</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="74bdcde5-76de-4884-8024-5078667d525a">
+		<Name>Оптовая</Name>
+		<Code>000000003</Code>
+		<Description>Оптовая</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="d9fe8292-d6f2-4d4f-bf31-045e5466a3be">
+		<Name>Реализации</Name>
+		<Code>000000004</Code>
+		<Description>Реализации</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="02f6b567-a3c8-436c-832b-11d65f5d0ce1">
+		<Name>Розничная</Name>
+		<Code>000000002</Code>
+		<Description>Розничная</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+	<Item id="66504133-07f0-495c-9a60-71b11cbd898a">
+		<Name>Себестоимость</Name>
+		<Code>000000005</Code>
+		<Description>Себестоимость</Description>
+		<IsFolder>false</IsFolder>
+	</Item>
+</PredefinedData>

@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<ConfigDumpInfo xmlns="http://v8.1c.ru/8.3/xcf/dumpinfo" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" format="Hierarchical" version="2.8">
+	<ConfigVersions>
+		<Metadata name="Catalog.Пользователи" id="efcfe59b-839b-4c00-937c-f7cd98a1ff74" configVersion="269e22f5cc8373443b9dcd6dfbe41d28d4ffb1d9"/>
+		<Metadata name="Catalog.Пользователи.Form.ФормаЭлемента" id="bc596274-98d1-42eb-8a61-dfe92ae2c441" configVersion="a2bf0e8193cbed5786bec51bddb8e3000c994b5f"/>
+		<Metadata name="Catalog.Пользователи.Form.ФормаЭлемента.Form" id="bc596274-98d1-42eb-8a61-dfe92ae2c441.0" configVersion="0f024c8b503c420d5f7c85af8511e02fc96fc681"/>
+		<Metadata name="Catalog.ФизическиеЛица" id="9c531bb6-7e28-4a5e-8c23-fca5e4fea82c" configVersion="6240faadbb25c4ab31868003547f61ab984fb690">
+			<Metadata name="Catalog.ФизическиеЛица.Attribute.Пользователь" id="e20da967-b788-4ce9-9a8f-95b55e620152"/>
+		</Metadata>
+		<Metadata name="CommonPicture.ПиктограммыЭлементов" id="f37bd26a-068a-4cad-8511-691f119049d2" configVersion="da1290f2e575f89c7a18c6fb47279ca6fd2398fa"/>
+		<Metadata name="CommonPicture.Предупреждение" id="ff34ae91-2145-4e7f-bbfa-3e4c27d98f4f" configVersion="a9b99a76738b1be75771a8ec6a47469d4b00d0fc"/>
+		<Metadata name="CommonPicture.Предупреждение32" id="0132a375-6db3-48ca-9eb8-b9c8774b0369" configVersion="b1eef50d2d8abcd3548d11dee183ef9b783bd86b"/>
+		<Metadata name="Configuration.ФормаПользователи" id="08d1564e-c8c0-414c-ae7e-3d4c806a9eeb" configVersion="6fff4892f9b47b3134d2166f7f2ec20b12c5bd6d"/>
+		<Metadata name="Language.Русский" id="d51ea5d0-6984-4cfc-9573-0201a1dccb29" configVersion="d840b5164e83f11a6b4f0ae6beb4efb64c29df71"/>
+		<Metadata name="Role.ФП_ОсновнаяРоль" id="2fb6dec9-d50e-49d6-be45-7b787746fb0a" configVersion="512f05e948c589c669da39e6a5a8076dc4af6085"/>
+		<Metadata name="StyleItem.ПоясняющийТекст" id="d2060f3d-5609-4240-9118-5f9b0d2aa4ea" configVersion="eff7f57eccebf54789ec28fb1fc7e405e11ba086"/>
+	</ConfigVersions>
+</ConfigDumpInfo>
